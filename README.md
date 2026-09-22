@@ -61,6 +61,10 @@ I am a **driven Software Engineer** specializing in building **high-performance,
 ## 📊 GitHub Analytics (The Proof)
 
 <p align="center">
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/readme-stats?username=Mahdi-Shahrezaei&show_icons=true&theme=radical" alt="Total Stars" />
+</p>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahdi-Shahrezaei&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Shahrezaei&layout=compact&theme=radical" />
 </p>
