@@ -62,6 +62,10 @@ I am a **driven Software Engineer** specializing in building **high-performance,
 
 <p align="center">
   <p align="center">
+    <p align="center">
+  <img src="https://img.shields.io/github/stars/Mahdi-Shahrezaei?style=for-the-badge&color=yellow&logo=github" alt="Total Stars" />
+</p>
+
   <img src="https://github-readme-stats.vercel.app/api/readme-stats?username=Mahdi-Shahrezaei&show_icons=true&theme=radical" alt="Total Stars" />
 </p>
 
