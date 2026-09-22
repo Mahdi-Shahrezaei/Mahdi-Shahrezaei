@@ -46,7 +46,7 @@ I am a **driven Software Engineer** specializing in building **high-performance,
 
 ---
 
-## 📊 GitHub Analytics (The Proof)
+## 📊 GitHub Analytics (Stars)
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Mahdi-Shahrezaei?style=for-the-badge&color=ffcc00&logo=github" alt="Total Stars" />
