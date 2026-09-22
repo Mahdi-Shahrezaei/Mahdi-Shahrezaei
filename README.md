@@ -51,19 +51,3 @@ I am a **driven Software Engineer** specializing in building **high-performance,
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Shahrezaei&theme=radical" alt="streak stats" />
 </p>
-
----
-
-## 📂 Featured High-Performance Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🔐 StarPasswordManager** | Robust, encrypted credential management system. | `Python` `Tkinter` `Security` |
-| **🛡️ AccessGuard** | Advanced enterprise-grade access control module. | `Networking` `Auth` |
-| **⏱️ PomodoroPro** | High-efficiency productivity engine. | `Python` `GUI` |
-| **🔋 BatteryReporter** | Real-time intelligent system diagnostic tool. | `Python` `Automation` |
-
----
-
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
