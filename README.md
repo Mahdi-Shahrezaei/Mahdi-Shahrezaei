@@ -51,3 +51,16 @@ I am a **driven Software Engineer** specializing in building **high-performance,
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Shahrezaei&theme=radical" alt="streak stats" />
 </p>
+
+
+## 📊 GitHub Analytics (The Proof)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahdi-Shahrezaei&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Shahrezaei&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Shahrezaei&theme=radical" alt="streak stats" />
+</p>
+
