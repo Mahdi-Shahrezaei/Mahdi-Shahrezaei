@@ -3,8 +3,7 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Mahdi-Shahrezaei&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
-Of 2026/09
+</p>Of 2026/09
 ---
 
 ## 👨‍💻 About Me
