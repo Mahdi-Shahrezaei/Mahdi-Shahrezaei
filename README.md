@@ -59,4 +59,14 @@ I am a **driven Software Engineer** specializing in building **high-performance,
 </p>
 
 ---
+### 📱 Connect with me
+
+<p align="left">
+  <a href="https://t.me/YourID" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="@AI172" />
+  </a>
+  <a href="https://t.me/YourChannel" target="_blank">
+    <img src="https://img.shields.io/badge/Channel-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="@AI172" />
+  </a>
+</p>
 
