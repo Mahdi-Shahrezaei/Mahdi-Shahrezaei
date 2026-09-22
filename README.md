@@ -3,8 +3,8 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Mahdi-Shahrezaei&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>Of 2026/09
----
+</p>[ View Of 2026/10 ]
+
 
 ## 👨‍💻 About Me
 I am a **driven Software Engineer** specializing in building **high-performance, scalable, and robust** digital ecosystems. My expertise lies at the intersection of **Artificial Intelligence**, **Network Engineering**, and **Advanced Automation**, where I transform complex challenges into seamless, production-ready solutions.
