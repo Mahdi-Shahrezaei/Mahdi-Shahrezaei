@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahdi Shahrezaei 
+# ♾️ Hi, I'm Mahdi Shahrezaei 
 ### 🚀 Senior Software Engineer | AI & Automation Specialist | Architect
 
 <p align="left">
@@ -49,31 +49,5 @@ I am a **driven Software Engineer** specializing in building **high-performance,
 ## 📊 GitHub Analytics (The Proof)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahdi-Shahrezaei&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Shahrezaei&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/github/stars/Mahdi-Shahrezaei?style=for-the-badge&color=ffcc00&logo=github" alt="Total Stars" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Shahrezaei&theme=radical" alt="streak stats" />
-</p>
-
-
-## 📊 GitHub Analytics (The Proof)
-
-<p align="center">
-  <p align="center">
-    <p align="center">
-  <img src="https://img.shields.io/github/stars/Mahdi-Shahrezaei?style=for-the-badge&color=yellow&logo=github" alt="Total Stars" />
-</p>
-
-  <img src="https://github-readme-stats.vercel.app/api/readme-stats?username=Mahdi-Shahrezaei&show_icons=true&theme=radical" alt="Total Stars" />
-</p>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahdi-Shahrezaei&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Shahrezaei&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Shahrezaei&theme=radical" alt="streak stats" />
-</p>
-
