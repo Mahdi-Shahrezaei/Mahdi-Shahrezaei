@@ -58,7 +58,7 @@ I am a **driven Software Engineer** specializing in building **high-performance,
 </p>
 
 ---
-### 📱 Connect with me
+### 📱 Connect with me : Telegram: @AI172
 
 <p align="left">
   <a href="https://t.me/YourID" target="_blank">
