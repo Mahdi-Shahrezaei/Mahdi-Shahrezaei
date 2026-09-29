@@ -6,7 +6,7 @@
 </p>[ View Of 2026/10 ]
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me: University graduate with a Bachelor's degree in Computer Software Engineering.
 I am a **driven Software Engineer** specializing in building **high-performance, scalable, and robust** digital ecosystems. My expertise lies at the intersection of **Artificial Intelligence**, **Network Engineering**, and **Advanced Automation**, where I transform complex challenges into seamless, production-ready solutions.
 
 - 🧠 **AI & Automation Specialist**: Expert in automating complex workflows and deploying intelligent agents.
